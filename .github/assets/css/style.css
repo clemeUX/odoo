@@ -7,6 +7,23 @@
         margin-right: 0;
     }
     .header{
+    background: rgb(3,138,255,1);
+    padding: 20px 0px;
+    }
+    .header strong{
+        padding-left: 20px;
+        font-weight: 600;
+    }
+    .header a{
+        color:#fff;
+    }
+    .header a:hover{
+        color:#e9ecf3;
+        text-decoration: none;
+    }
+    .border-b-1{
+      padding: 0px 0px 20px 0px;
+        border-bottom: #52a1f6 solid 2px;
     }
     .hero{
     background: rgb(255,255,255);
